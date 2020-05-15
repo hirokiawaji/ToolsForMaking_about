@@ -135,7 +135,14 @@ h3{
   text-decoration: none;
   font-weight:bold;
 }
+.contact{
+  text-decoration: none;
+  color:black;
+}
 .home:hover{
+  color:gray;
+}
+.contact:hover{
   color:gray;
 }
 
