@@ -46,8 +46,7 @@ h2{
 }
 .text{
   margin-top:50px;
-  margin-left:30px;
-  margin-right:30px;
+  margin:0 auto;
   font-size:24px;
   font-family:serif;
   font-weight:normal;
@@ -153,7 +152,7 @@ h1{
   font-size:30px;
 }
 .chronology{
-  margin:50px auto 0 auto; 
+  margin:50px auto 0 auto;
 }
 @media(max-width:1000px){
   .main li{
