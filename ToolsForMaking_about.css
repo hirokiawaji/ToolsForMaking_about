@@ -152,6 +152,9 @@ h1{
   font-weight:bold;
   font-size:30px;
 }
+.chronology{
+  margin:50px auto 0 auto; 
+}
 @media(max-width:1000px){
   .main li{
     width:24%;
